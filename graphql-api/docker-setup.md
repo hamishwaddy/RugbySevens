@@ -1,7 +1,8 @@
 #### Docker Container setup
 ___
 
-1. Download the graphql-api folder.
+1. Download the graphql-api folder from the Github repository ([here](https://github.com/hamishwaddy/RugbySevens/tree/master/graphql-api)). It has the necessary files to build and run the GraphQL server.
+
 2. Open Terminal, from the graphql-api folder run:
 ```
 docker-compose up -d 
